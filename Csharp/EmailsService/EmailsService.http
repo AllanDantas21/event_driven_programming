@@ -1,0 +1,6 @@
+@EmailsService_HostAddress = http://localhost:5277
+
+GET {{EmailsService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

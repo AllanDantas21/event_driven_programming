@@ -3,3 +3,4 @@ this project aims to improve my skills with event driven programming in differen
 
 ## Projects
 [EmailsService](./Java/emails/) -> made in java with RabbitMQ queue and DLQ
+[ChatEngine]()
