@@ -8,3 +8,7 @@ this project aims to improve my skills with event driven programming in differen
 
 ### C# 
 [EmailsService](./Java/emails/) -> RabbitMQ queue and DLQ
+
+
+## Docs
+[rabbitmq](./docs/concepts/rabbitmq.md)
