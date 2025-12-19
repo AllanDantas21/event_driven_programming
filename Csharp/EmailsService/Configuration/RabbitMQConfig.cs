@@ -8,7 +8,6 @@ public static class RabbitMQConfig
     public const string EmailQueue = "email.queue";
     public const string EmailExchange = "email.exchange";
     public const string EmailRoutingKey = "email.routing.key";
-    
     public const string DlqQueue = "email.dlq";
     public const string DlqExchange = "email.dlq.exchange";
     public const string DlqRoutingKey = "email.dlq.routing.key";
