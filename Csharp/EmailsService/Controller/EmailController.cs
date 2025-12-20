@@ -1,9 +1,8 @@
-using EmailsService.DTOs;
-using EmailsService.Models;
-using EmailsService.Services;
+using EmailsService.Model;
+using EmailsService.Producer;
 using Microsoft.AspNetCore.Mvc;
 
-namespace EmailsService.Controllers;
+namespace EmailsService.Controller;
 
 [ApiController]
 [Route("api/[controller]")]

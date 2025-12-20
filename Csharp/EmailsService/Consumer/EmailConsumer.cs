@@ -1,11 +1,11 @@
-using EmailsService.Configuration;
-using EmailsService.Models;
+using EmailsService.Config;
+using EmailsService.Model;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 using System.Text;
 using System.Text.Json;
 
-namespace EmailsService.Services;
+namespace EmailsService.Consumer;
 
 public class EmailConsumer : BackgroundService
 {

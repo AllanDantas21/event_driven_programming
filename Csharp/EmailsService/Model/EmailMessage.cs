@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 
-namespace EmailsService.Models;
+namespace EmailsService.Model;
 
 public class EmailMessage
 {
@@ -30,3 +30,4 @@ public class EmailMessage
         Body = body;
     }
 }
+

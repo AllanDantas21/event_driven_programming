@@ -1,4 +1,4 @@
-namespace EmailsService.Models;
+namespace EmailsService.Model;
 
 public enum EmailType
 {
@@ -6,3 +6,4 @@ public enum EmailType
     Welcome,
     PasswordRecovery
 }
+

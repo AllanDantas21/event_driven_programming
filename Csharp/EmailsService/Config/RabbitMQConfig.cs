@@ -1,7 +1,7 @@
 using RabbitMQ.Client;
 using System.Text.Json;
 
-namespace EmailsService.Configuration;
+namespace EmailsService.Config;
 
 public static class RabbitMQConfig
 {
@@ -43,3 +43,4 @@ public static class RabbitMQConfig
         return JsonSerializer.Deserialize<T>(json);
     }
 }
+

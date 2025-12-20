@@ -1,4 +1,5 @@
-using EmailsService.Services;
+using EmailsService.Consumer;
+using EmailsService.Producer;
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);

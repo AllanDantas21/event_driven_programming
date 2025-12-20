@@ -1,9 +1,9 @@
-using EmailsService.Configuration;
-using EmailsService.Models;
+using EmailsService.Config;
+using EmailsService.Model;
 using RabbitMQ.Client;
 using System.Text.Json;
 
-namespace EmailsService.Services;
+namespace EmailsService.Producer;
 
 public class EmailProducer : IDisposable
 {
