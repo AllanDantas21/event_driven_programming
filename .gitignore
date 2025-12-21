@@ -1,4 +1,3 @@
-# Maven
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -10,46 +9,36 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
-# Compiled class files
 *.class
 
-# JAR files (exceto se necessário versionar)
 *.jar
 *.war
 *.ear
 *.nar
 
-# Log files
 *.log
 
-# IDE - IntelliJ IDEA
 .idea/
 *.iws
 *.iml
 *.ipr
 out/
 
-# IDE - Eclipse
 .classpath
 .project
 .settings/
 bin/
 
-# IDE - VS Code
 .vscode/
 
-# OS
 .DS_Store
 Thumbs.db
 
-# Spring Boot
 application-local.properties
 application-dev.properties
 
-# Node modules (se houver)
 node_modules/
 
-# Python (se houver)
 __pycache__/
 *.py[cod]
 *$py.class
@@ -58,7 +47,6 @@ __pycache__/
 venv/
 env/
 
-# C# / .NET (se houver)
 bin/
 obj/
 *.user
@@ -66,5 +54,6 @@ obj/
 *.cache
 *.dll
 *.exe
+
 
 
