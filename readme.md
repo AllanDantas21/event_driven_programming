@@ -4,6 +4,7 @@ this project aims to improve my skills with event driven programming in differen
 ## Projects
 ### Java
 [EmailsService](./Java/emails/) -> RabbitMQ queue and DLQ
+
 [ChatEngine](./Java/chatEngine/) -> RabbitMQ queue and DLQ
 
 ### C# 
